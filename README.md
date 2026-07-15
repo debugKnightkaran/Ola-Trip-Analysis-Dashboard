@@ -45,6 +45,14 @@ This project simulates a real-world analytics workflow for a ride-hailing busine
 - Demand rises steadily through the day and peaks in the evening hours, with **IGI Airport** locations among the top pickup and drop-off points.
 - Repeat customers make up roughly **75%** of the customer base (defined as 3+ completed rides) — a healthy retention signal for a ride-hailing platform.
 
+## 🎯 Skills Demonstrated
+
+- Data cleaning and transformation (Power Query)
+- DAX measure creation and debugging
+- Data quality investigation and correction
+- Interactive dashboard design (Power BI)
+- Business-focused KPI selection and storytelling
+
 ## 📁 Repository Structure
 
 ```
